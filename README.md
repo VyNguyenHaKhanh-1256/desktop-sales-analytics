@@ -75,6 +75,10 @@ Database bao gồm 07 bảng chuẩn hóa:
 
 ---
 
+## Demo 
+<img width="461" height="249" alt="Screenshot 2026-10-01 192115" src="https://github.com/user-attachments/assets/208c4a9f-76d9-4f3e-9b92-f09e537a2002" />
+
+
 ## 📁 Cấu trúc thư mục dự án
 
 ```text
