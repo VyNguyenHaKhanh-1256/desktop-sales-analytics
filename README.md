@@ -82,7 +82,6 @@ Database bao gồm 07 bảng chuẩn hóa:
 ## 📁 Cấu trúc thư mục dự án
 
 ```text
-a49901/
 ├── root.py               # File chạy chính của chương trình (Entry point)
 ├── ui.py                 # Giao diện chính (Dashboard, Order Form, Search, KPI)
 ├── ui_customers.py       # Popup quản lý khách hàng
